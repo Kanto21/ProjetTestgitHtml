@@ -1,1 +1,25 @@
 /* efa mifandray ny css sy html,Mazotoa ry zalah*/
+.container {
+  position: relative;
+}
+.kiady {
+  margin-right: 20px;
+  padding: 20%;
+  padding-right: 50%;
+  color: black;
+  border-radius: 20px;
+  background: rgba(0, 0, 0, 0.3);
+}
+.fikafika {
+  background-color: blueviolet;
+  padding: 5%;
+  padding-right: 200px;
+  border-radius: 15px;
+  color: wheat;
+}
+.container .ref {
+  display: flex;
+  flex-wrap: wrap;
+  margin-bottom: 30px;
+  color: whitesmoke;
+}
